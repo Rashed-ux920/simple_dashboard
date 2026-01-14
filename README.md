@@ -2,6 +2,8 @@
 
 A modern, responsive Agent Dashboard UI for the Insura insurance platform.
 
+<img width="1891" height="841" alt="image" src="https://github.com/user-attachments/assets/7dc507bb-21a5-4da2-a9f2-2eca240d590c" />
+
 ## Features
 
 - 🎨 Modern design inspired by Spotify + Stripe SaaS dashboards
